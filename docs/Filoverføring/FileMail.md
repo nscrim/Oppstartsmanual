@@ -3,7 +3,7 @@
 Filemail er en sky-basert filoverføringstjeneste, levert av selskapet Filemail som tillater brukere å 
 sende store filer via internett. Filemail-nettsider er "whitelisted" i analyserom og kan derfor brukes for å overføre filer til og fra et analyserom.
 
-_Hvis du ikke har mottatt lenke til opplastingsportal og tilhørende passord via e-post, kan du kontakte din Helsedatasenter-rådgiver._
+Hvis du ikke har mottatt lenke til opplastingsportal og tilhørende passord via e-post, kan du kontakte din Helsedatasenter-rådgiver.
 
 ## Last opp filer
 Du, eller datakilden din (for eksempel Helsedataservice), må åpne lenken til opplastingsportalen (`https://hemit.filemail/...`, mottatt via e-post) i en nettleser utenfor analyserom. Når siden er lastet inn, må du skrive inn tilsendt passord og trykk på "Unlock".
@@ -13,7 +13,7 @@ Du, eller datakilden din (for eksempel Helsedataservice), må åpne lenken til o
 Legg inn:
 
 1) Helsedatasenter-rådgiverne som skal behandle filoverføringen i **"To"** feltet. Noen rådgivere skal være forhåndsvalgt som standard.
-2) E-postadresse i **"Filmottakere"** feltet. Denne e-postadressen skal motta en nedlastingslenke til filen(e) som kan brukes i analyserom. 
+2) E-postadresse i **"Filmottakere"** feltet. Denne e-postadressen skal motta en nedlastingslenke til filen(e) som kan brukes i analyserom. Vanligvis deg selv, eller prosjektleder av analyserommet ditt. 
 3) En kort beskrivelse av overføringen i feltene **"Subject"** og **"Message"**, og om filen sendes til eller fra analyserommet.
 4) Filene som skal overføres - enten dra og slipp filer/mapper fra filutforsker, eller trykk og velg filer/mapper.
 
@@ -39,6 +39,7 @@ Skriv inn passordet som er oppgitt i den andre e-posten for å komme til nedlast
 Du kan deretter laste ned filene enten ved å:
 - klikke på knappen «Last ned alle filer». Hvis det er flere filer i overføringen, lastes alle filene ned i et .zip-arkiv.
 - klikke på hver fil individuelt
+
 ![Portal](bilder/download5.jpg)
 
 ## Kryptering av personopplysninger
