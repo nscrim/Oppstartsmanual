@@ -2,7 +2,7 @@
 
 Prosjekter med dataansvar tilhørende en institusjon med databehandleravtale med Sikt FileSender (f. eks. NTNU) kan importere filer på egenhånd til analyserom. Siden SIKT Filesender er ikke en tjenseste Helse Midt Norge har en databehandleravtale med tilbyr vi lite brukerstøtte for dette tjenesten.
 
----
+
 ## Prosedyre
 For å importere filer må du først logge inn i [Sikt FileSender](https://filesender.sikt.no/) utenfor analyserom. Velg Send files og last opp fil(er).
 
@@ -11,8 +11,6 @@ Hvis du selv skal laste ned filen(e) i analyserom, hak av for "Get a link instea
 Det er også mulig å logge inn med Feide i [Sikt FileSender](https://filesender.sikt.no/) i analyserom for å motta filer sendte direkte til deg, eller sende filer ut fra analyserom.
 
 Videre veiledning finner man på [NTNU Kunnskapsbasen ](https://i.ntnu.no/wiki/-/wiki/Norsk/sikker+sending+og+mottak+av+filer+og+dokumenter)
-
----
 
 ## Kryptering av personopplysninger
 Vi gjør oppmerksom på at alle filer med sensitivt innhold skal krypteres før opplasting. Dekrypter filen(e) etter nedlastning til analyserom. Programvaren 7-zip kan for eksempel brukes.
